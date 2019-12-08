@@ -1,0 +1,77 @@
+.login{
+    background: #b4b5b5;
+}
+.bpl_full{
+    background: #1cc9fd;
+}
+.bpl{
+    padding: 10px 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 28px;
+}
+.form_full{
+    padding-top: 20px;
+}
+.form_full input{
+      text-align: center;
+}
+.myButton{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.d_header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px
+}
+.d_logo{
+    padding: 10px 10px;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.d_logo p{
+    font-size: 14px;
+}
+.m a i{
+    color: #2e2e2e;
+}
+.das_full{
+    background: #ededed; 
+}
+.d_chart_1{
+    display: flex;
+    flex-direction: row;
+/*     justify-content: space-between;*/
+    text-align: center;
+    flex-wrap: nowrap !important;
+}
+.m{
+     border: 1px solid #000;
+}
+.d_chart_2{
+    display: flex;
+}
+.preview{
+    padding: 10px 10px;
+    background: #108cf7;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: #fff;
+}
+.preview button{
+    background: none;
+}
+.s{
+    color: #fff;
+}
