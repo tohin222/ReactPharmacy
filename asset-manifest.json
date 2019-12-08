@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPharmacy/static/css/main.34de6062.chunk.css",
+    "main.js": "/ReactPharmacy/static/js/main.e8698ac4.chunk.js",
+    "main.js.map": "/ReactPharmacy/static/js/main.e8698ac4.chunk.js.map",
+    "runtime-main.js": "/ReactPharmacy/static/js/runtime-main.6acc56a6.js",
+    "runtime-main.js.map": "/ReactPharmacy/static/js/runtime-main.6acc56a6.js.map",
+    "static/js/2.e4249e16.chunk.js": "/ReactPharmacy/static/js/2.e4249e16.chunk.js",
+    "static/js/2.e4249e16.chunk.js.map": "/ReactPharmacy/static/js/2.e4249e16.chunk.js.map",
+    "index.html": "/ReactPharmacy/index.html",
+    "precache-manifest.5a172610361513fdb1905b7fd40a2e66.js": "/ReactPharmacy/precache-manifest.5a172610361513fdb1905b7fd40a2e66.js",
+    "service-worker.js": "/ReactPharmacy/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/ReactPharmacy/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6acc56a6.js",
+    "static/js/2.e4249e16.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.e8698ac4.chunk.js"
+  ]
+}
